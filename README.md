@@ -17,12 +17,6 @@ Zaawansowany klient utility do Minecrafta bazujący na szkielecie **Thunderhack*
 - **Narzędzia:** Mixins, ASM, MCP / Yarn, Gradle, Git
 - **Zainteresowania:** Game Hacking, Optymalizacja Kodu, GUI Design, Reverse Engineering
 
-## Statystyki GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Twój_Nick_GitHub]&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Twój_Nick_GitHub]&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Languages" />
-</p>
-
 ## Kontakt
-- Discord: `[Twój_Discord]`
+- Discord: `hmpower`
 - Poprzez GitHub Issues / Pull Requests
